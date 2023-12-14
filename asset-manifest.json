@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ismael2405/proyecto122/static/css/main.f30eab7a.css",
+    "main.js": "/Ismael2405/proyecto122/static/js/main.ae12aa7e.js",
+    "static/js/787.ad403f68.chunk.js": "/Ismael2405/proyecto122/static/js/787.ad403f68.chunk.js",
+    "static/media/tiendita.mp4": "/Ismael2405/proyecto122/static/media/tiendita.264810627330bfe270a6.mp4",
+    "static/media/librodeportes.jpg": "/Ismael2405/proyecto122/static/media/librodeportes.676223e077e2feea97ff.jpg",
+    "static/media/baskt1.jpg": "/Ismael2405/proyecto122/static/media/baskt1.ea55a6c5b0711ad3a915.jpg",
+    "static/media/vol1.jpg": "/Ismael2405/proyecto122/static/media/vol1.7576b05c49ad1bfffcca.jpg",
+    "static/media/usuario.jpg": "/Ismael2405/proyecto122/static/media/usuario.7156d4d95aa92b50ccfe.jpg",
+    "static/media/deporte1.jpg": "/Ismael2405/proyecto122/static/media/deporte1.4b0e5d893cfb41fb7fa1.jpg",
+    "static/media/deporte2.jpg": "/Ismael2405/proyecto122/static/media/deporte2.f953bb3f64d125e65e8c.jpg",
+    "index.html": "/Ismael2405/proyecto122/index.html",
+    "main.f30eab7a.css.map": "/Ismael2405/proyecto122/static/css/main.f30eab7a.css.map",
+    "main.ae12aa7e.js.map": "/Ismael2405/proyecto122/static/js/main.ae12aa7e.js.map",
+    "787.ad403f68.chunk.js.map": "/Ismael2405/proyecto122/static/js/787.ad403f68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f30eab7a.css",
+    "static/js/main.ae12aa7e.js"
+  ]
+}
